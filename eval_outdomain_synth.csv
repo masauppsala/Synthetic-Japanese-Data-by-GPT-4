@@ -1,0 +1,431 @@
+uid,source,label,diacritic,sentence,original,translation,gloss,simple,Arg. Str.,ellipsis,filler-gap,control/raising,island effects,NPI/NCI,verbal agr.,binding,morphology,nominal structure,quantifier,category,acceptability
+428,ChatGPT,0,*,私はその軽いより重い本を持ち上げた。,,,,False,False,True,True,False,False,False,False,False,False,False,False,ellipsis,unacceptable
+1937,ChatGPT,1,,学校から彼女は歩いた。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2408,ChatGPT,1,,彼女は友達に誕生日プレゼントをあげた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2257,ChatGPT,1,,恵理は彼女のペット犬を散歩させた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+420,ChatGPT,0,*,彼はその古いより効率的なコンピューターを使った。,,,,False,False,True,True,False,False,False,False,False,False,False,False,filler-gap,unacceptable
+1101,ChatGPT,1,,見えないほど小さい。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+879,ChatGPT,0,,和也は自分の意見をく変えた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1871,ChatGPT,0,,その店は閉まる早い。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+921,ChatGPT,1,,彼は一週間に2回映画を見る。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+774,ChatGPT,0,,明美は自分の部屋をと飾った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1456,ChatGPT,0,,この部屋は冷たいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+84,ChatGPT,1,g,私たちはほとんど出かけなかった。,私たちはほとんど出かけなかった。,We hardly ever went out.',we-TOP almost go out-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+955,ChatGPT,1,,彼らは部屋の中で5時間話し合った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+2025,ChatGPT,1,,私の犬は小さいです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2618,ChatGPT,0,,彼女が書かれる手紙。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+386,ChatGPT,0,*,彼が昨夜見た夢は楽しいが、彼女が見たは怖い。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,unacceptable
+2024,ChatGPT,1,,今日は暑いです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1827,ChatGPT,0,,私は隣人と問題だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+1197,ChatGPT,0,,彼は走りそうのだ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2471,ChatGPT,1,,子供たちは学校へ行った。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2071,ChatGPT,1,,子猫はとても可愛いです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2526,ChatGPT,0,,車は彼に運転される。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+957,ChatGPT,1,,彼女は箱にリボンを3つ結んだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1122,ChatGPT,1,,犬が尻尾を振っている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+2306,ChatGPT,1,,その図書館には本が2000冊以上ある。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1008,ChatGPT,0,,彼がコーヒーを2匹飲んだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1399,ChatGPT,0,,学生が校長先生をお見送りになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2479,ChatGPT,1,,彼女は散歩に出かけた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+1163,ChatGPT,1,,この本はとても面白かった。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1484,ChatGPT,0,,彼女たちは甘いです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2612,ChatGPT,0,,車を見る彼が運転する。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+766,ChatGPT,0,,真理子は彼女のが部屋を片付けた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1145,ChatGPT,1,,彼は深く考え込んでいる。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+2505,ChatGPT,1,,彼はカフェでコーヒーを注文した。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2514,ChatGPT,1,,教師が授業で数学を教えた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+1953,ChatGPT,0,,私は店を買い物する。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+1446,ChatGPT,0,,あの山は明るいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2260,ChatGPT,1,,秀夫は自分の家族との時間を大切にしている。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1308,ChatGPT,1,,鈴木さんが顧客に商品をご紹介した。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1423,ChatGPT,0,,彼女が友人をご覧になる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+192,ChatGPT,0,*,彼女は全然何もの映画を見なかった。,彼女は全然何もの映画を見なかった。,She didn't watch any movies at all.,She-TOP at all what-MO-GEN movie-ACC watch-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+1071,ChatGPT,0,,彼が作ったのは料理を三品スープだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1042,ChatGPT,0,,そのレストランには席が30個窓だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+299,ChatGPT,1,*,彼は週末に山登りに行くと言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+411,ChatGPT,0,*,彼女が昨日使ったアプリは便利だが、兄が使ったは複雑だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,unacceptable
+2317,ChatGPT,1,,彼女は一年に一度歯医者に行く。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+264,ChatGPT,1,*,私が昨日見た夢は不思議な旅についてだった。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1112,ChatGPT,1,,このゲームは面白くなりそう。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+2094,ChatGPT,0,,どの車を彼女がどのディーラーを買ったか記憶していますか？,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,unacceptable
+1664,ChatGPT,1,,彼の答えは正確だが、彼女のは間違っている。,,,,False,False,True,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+2515,ChatGPT,1,,彼は図書館で本を借りた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+221,ChatGPT,0,*,使用したアプリが便利だったのはどれですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,unacceptable
+2389,ChatGPT,1,,彼女は毎日日記をつける。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+799,ChatGPT,0,,雄大は自分の夢に向かってに進んだ。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1623,ChatGPT,1,,彼がどの映画を選ぶか彼女は予想している。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+1276,ChatGPT,0,,彼は計画にの従っている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2252,ChatGPT,1,,健太郎は自分の趣味の写真を展示会に出品した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1259,ChatGPT,0,,彼女は友達との話している。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2028,ChatGPT,1,,明日は雨が降るでしょう。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1424,ChatGPT,0,,私が弟をお招きになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+64,ChatGPT,1,g,彼は一度も遅れたことがない。,彼は一度も遅れたことがない。,He has never been late.',he-TOP once-also be late-thing-NOM-exist-NEG,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1208,ChatGPT,0,,この機械は使いにくいに。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+20,ChatGPT,1,g,私は決して甘いものを食べない。,私は決して甘いものを食べない。,I never eat sweets.',I-TOP never sweets-ACC eat-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+637,ChatGPT,0,,水彩画が色鮮やかに描かれ乾いた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2244,ChatGPT,1,,勇気は自分の将来の夢を語った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+666,ChatGPT,0,,ソファが快適に配置され動かされた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2500,ChatGPT,1,,彼は朝食にパンとコーヒーを食べた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+899,ChatGPT,1,,彼女は一日に3回薬を飲む。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1224,ChatGPT,0,,彼女はダンスがを上手だ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+536,ChatGPT,1,,彼女は新しい言葉を学ぶのを始めた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+2064,ChatGPT,1,,彼はよく歌います。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1373,ChatGPT,1,,吉田さんがチームリーダーをご支援になった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+535,ChatGPT,1,,彼は新しいビジネスアイディアを検討するのを決意した。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+124,ChatGPT,1,g,彼女は全然新しい言葉を覚えなかった。,彼女は全然新しい言葉を覚えなかった。,She didn't learn any new words at all.',She-TOP at all new words-ACC learn-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+105,ChatGPT,1,g,彼女は滅多に買い物をしない。,彼女は滅多に買い物をしない。,She hardly ever goes shopping.',she-TOP rarely shopping-ACC do-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+256,ChatGPT,1,*,彼が読み終えて感動した小説は山田太郎の最新作だ。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1087,ChatGPT,0,,彼女がリンゴを五杯食べた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1844,ChatGPT,0,,彼女が描いているのは冷たいの絵画だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+2052,ChatGPT,1,,このゲームは楽しいです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1773,ChatGPT,0,,彼女は全然何も聞かなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2189,ChatGPT,1,,このバッグの素材は高品質で耐久性がある。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+758,ChatGPT,1,,紗代は彼女の新曲を録音した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2442,ChatGPT,1,,彼女は犬を散歩に連れて行った。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2044,ChatGPT,1,,その時計は古いです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2068,ChatGPT,1,,彼は毎朝コーヒーを飲みます。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+35,ChatGPT,1,g,彼は滅多に笑わない。,彼は滅多に笑わない。,He rarely laughs.',he-TOP rarely laugh-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+410,ChatGPT,0,*,彼が先週行ったパーティーは楽しかったが、彼女が行ったは静かだった。,,,,False,False,True,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+60,ChatGPT,1,g,私たちは決して遅刻しなかった。,私たちは決して遅刻しなかった。,We were never late.',we-TOP never be late-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+2455,ChatGPT,1,,彼女は部屋を片付けた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2138,ChatGPT,1,,今朝のジョギングは気分を爽快にした。,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,acceptable
+681,ChatGPT,1,,浩二は自分の車を売った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2585,ChatGPT,0,,散歩した犬が彼に連れられる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1095,ChatGPT,0,,明子は自分の夢をが追いかけた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+2008,ChatGPT,0,,彼は楽しいだった。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+823,ChatGPT,0,,麻衣は自分の将来がについて考えた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1801,ChatGPT,0,,どの映画を彼女が好むかジャンルは多岐にわたる。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+2540,ChatGPT,0,,犬は散歩に連れて行く。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1951,ChatGPT,0,,彼は映画のに見た。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+2621,ChatGPT,0,,食べる彼女にケーキが作られた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+883,ChatGPT,0,,敏郎は彼の家族をこ守った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1955,ChatGPT,1,,学生たちは教室で授業を受ける。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+138,ChatGPT,0,*,彼は決して新しい何も試みなかった。,彼は決して新しい何も試みなかった。,He never attempted anything new.',He-TOP never new what-MO attempt-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2004,ChatGPT,0,,この映画は退屈なだった。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+964,ChatGPT,1,,彼は友達全員と連絡を取った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1524,ChatGPT,0,,雄太は千佳がいつ彼のメッセージを無視したのか困惑しているの？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+1271,ChatGPT,0,,彼は目標にが向かって進んでいる。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+981,ChatGPT,0,,車が道を3冊走った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+813,ChatGPT,0,,美香は自分の夢をで追い続けた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1432,ChatGPT,0,,あの木は悲しいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+218,ChatGPT,1,*,見た人が驚いたのはどのマジックトリックですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,acceptable
+1693,ChatGPT,1,,この映画の演出は洗練されているが、あの映画のはそうではない。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1762,ChatGPT,0,,私たちは決してそのアイデアに何もの反応も示さなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2551,ChatGPT,0,,学校でのトイレへゆっくり行くにくさについて話された。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1081,ChatGPT,0,,彼女が花を六匹育てた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1604,ChatGPT,1,,お母さんがいつ帰るか子供は不安に思っている。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+590,ChatGPT,0,,教室が整然と整えられ乱れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+852,ChatGPT,0,,康平は彼のギターでが演奏した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+999,ChatGPT,0,,学生が教室を4匹使った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1699,ChatGPT,1,,彼女の絵画は明るいが、彼のは暗い。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1129,ChatGPT,1,,彼女は話し始めた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+374,ChatGPT,0,*,彼が昨夜聞いた音楽は穏やかだが、彼女が聞いたはうるさい。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,unacceptable
+1877,ChatGPT,0,,彼女は歌う上手い。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+107,ChatGPT,1,g,彼女は一切のメールを送らなかった。,彼女は一切のメールを送らなかった。,She didn't send any emails at all.',She-TOP any-GEN emails-ACC send-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+2221,ChatGPT,1,,その旅行の経験は豊かで一生の思い出になる。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+2060,ChatGPT,1,,彼は料理が得意です。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+68,ChatGPT,1,g,私たちは一度も失敗しなかった。,私たちは一度も失敗しなかった。,We never failed.',we-TOP once-also fail-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+2538,ChatGPT,0,,彼は映画に見る。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+80,ChatGPT,1,g,彼女は全く泳がなかった。,彼女は全く泳がなかった。,She didn't swim at all.',she-TOP at-all swim-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1520,ChatGPT,0,,マイはそのショウジより明るい色のドレスを着た。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+853,ChatGPT,0,,彩香は自分の美術作品をす創造した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1439,ChatGPT,0,,この本は苦しいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2589,ChatGPT,0,,彼女が話した友達に電話。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+2095,ChatGPT,0,,どの都市を彼がどのホテルに泊まったか分かりますか？,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,unacceptable
+626,ChatGPT,0,,ギターが情熱的に弾かれ壊れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+529,ChatGPT,1,,彼は新しいビジネスアイディアを考えるのを楽しんでいる。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+1571,ChatGPT,1,,シェフが何を作るかお客さんは期待している。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+1073,ChatGPT,0,,この部屋には窓が4つ扉だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+134,ChatGPT,0,*,このレシピは全然砂糖を何も使わない。,このレシピは全然砂糖を何も使わない。,This recipe doesn't use any sugar at all.',This recipe-TOP at all sugar-ACC what-MO use-NEG Present,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+530,ChatGPT,1,,子供たちは新しいゲームをプレイするのを楽しんでいる。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+1711,ChatGPT,1,,このプログラムのインターフェイスは直感的だが、あのプログラムのは複雑だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+2301,ChatGPT,1,,彼は一日に20回メールをチェックする。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+991,ChatGPT,0,,彼女がケーキを2匹焼いた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+570,ChatGPT,0,,部屋がきれいに掃除され満たされた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2475,ChatGPT,1,,彼は本を読んだ。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2344,ChatGPT,1,,彼は友達とバスケットボールをしている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1518,ChatGPT,0,,ショウタはそのアイコより硬いベッドを買った。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+1169,ChatGPT,1,,子供たちは宿題をしている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+2579,ChatGPT,0,,猫は食べられた魚に見る。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+161,ChatGPT,0,*,誰も彼の何も話を全然聞かない。,誰も彼の何も話を全然聞かない。,Nobody listens to none of his stories at all.,Nobody-NOM his any story-ACC at all not listen-NEG,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+1735,ChatGPT,0,,これは先生と授業だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+1428,ChatGPT,0,,学生がバス運転手をお待ちになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+312,ChatGPT,1,*,彼女は家族に手紙を書くと言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+15,ChatGPT,1,g,彼女はあまり旅行しない。,彼女はあまり旅行しない。,‘She doesn't travel much.’,she-TOP not much travel-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+123,ChatGPT,1,g,誰もその古い機械を使わなかった。,誰もその古い機械を使わなかった。,No one used that old machine.',Nobody that old machine-ACC use-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1647,ChatGPT,0,,お父さんが帰るいつか家族は待っている。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+1234,ChatGPT,0,,彼女は優しくの答えた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2518,ChatGPT,1,,彼女は犬を散歩させた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+915,ChatGPT,1,,彼は一切のアルコールを飲まない。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1204,ChatGPT,0,,彼女はが料理が得意だ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+893,ChatGPT,1,,彼はその問題に全く触れなかった。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1585,ChatGPT,1,,父がどの車を買うか家族は興味がある。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+2498,ChatGPT,1,,学生たちは図書館で勉強している。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+518,ChatGPT,1,,彼は新しいプロジェクトに参加するのを計画している。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+861,ChatGPT,0,,美咲は自分の成果にだ満足した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+931,ChatGPT,1,,彼はそのレースで一位になった。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+315,ChatGPT,1,*,彼女は彼に彼女の家を訪れると言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+119,ChatGPT,1,g,彼女は滅多に新しいレストランを試さない。,彼女は滅多に新しいレストランを試さない。,She seldom tries new restaurants.',She-TOP seldom new restaurants-ACC try-NEG Present,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+89,ChatGPT,1,g,彼らは全然走らなかった。,彼らは全然走らなかった。,They didn't run at all.',they-TOP at-all run-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1090,ChatGPT,0,,彼女が本を四台借りた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1847,ChatGPT,0,,彼女が持っているのは鋭いのバッグだ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+1807,ChatGPT,0,,何を彼が持っているか物は重すぎる。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+1398,ChatGPT,0,,彼女が上司をお出迎えになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2539,ChatGPT,0,,彼女は彼に会わせる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+2566,ChatGPT,0,,正雄がそこに読みかけでいる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+2573,ChatGPT,0,,あそこに手を挙げられる人がいる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1835,ChatGPT,0,,私たちは市場をした。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+180,ChatGPT,0,*,彼は一度も新しい何もの料理を作らなかった。,彼は一度も新しい何もの料理を作らなかった。,He never cooked anything new.,He-TOP never new what-MO-GEN cook-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2487,ChatGPT,1,,子供たちは公園で自転車に乗った。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+775,ChatGPT,0,,隆司は彼の仕事をが辞めた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+528,ChatGPT,1,,学生たちは新しいプロジェクトに取り組むのを計画している。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+222,ChatGPT,1,*,行ったコンサートが最高だったのはどのバンドですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,acceptable
+860,ChatGPT,0,,理香は彼女の勉強にす集中した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+783,ChatGPT,0,,麻衣は彼女の植物に水をおやった。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+647,ChatGPT,0,,花束が華やかに組まれ散らばった。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+67,ChatGPT,1,g,彼女はまったく怒らなかった。,彼女はまったく怒らなかった。,She didn't get angry at all.',she-TOP at-all get angry-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+431,ChatGPT,0,*,私はこの小さいより大きいサイズの服を選んだ。,,,,False,False,True,True,False,False,False,False,False,False,False,False,ellipsis,unacceptable
+454,ChatGPT,1,,彼女は旅行の計画を立てるのを楽しみにしている。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+139,ChatGPT,0,*,私は決して彼の何も話を信じない。,私は決して彼の何も話を信じない。,I never believe any of his stories.',I-TOP never his what-MO talk-ACC believe-NEG Present,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+1091,ChatGPT,0,,彼がコーヒーを二匹飲んだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+371,ChatGPT,0,*,彼女が先週読んだ本は長いが、彼が読んだは短い。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,unacceptable
+926,ChatGPT,1,,彼は一切の甘い食べ物を避けた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1383,ChatGPT,1,,伊藤課長がスタッフをお叱りになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+2363,ChatGPT,1,,彼女は花を植えた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1677,ChatGPT,1,,このソフトウェアの機能は多様だが、あのソフトウェアのは限られている。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1313,ChatGPT,1,,彼女が取引先に見積もりをお送りした。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1415,ChatGPT,0,,彼女が友達をお褒めになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+877,ChatGPT,0,,美智子は自分の誤りをす認めた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1669,ChatGPT,1,,彼女のアイデアは革新的だが、彼のは古典的だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+863,ChatGPT,0,,雅子は自分の能力をと信じた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+267,ChatGPT,1,*,彼が開発に携わったアプリは言語学習をサポートするものだ。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1639,ChatGPT,0,,教授が読むどの論文か学生は期待している。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+305,ChatGPT,1,*,教師は学生にレポートを提出するように要求した。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+1924,ChatGPT,0,,彼女が扉に閉じた。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+1855,ChatGPT,0,,彼が考えているのは柔らかいの計画だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+1728,ChatGPT,1,,彼のジョークはユーモラスで親しみやすい。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+701,ChatGPT,1,,哲也は自分の健康を気遣った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1082,ChatGPT,0,,学生がパソコンを五台使った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+638,ChatGPT,0,,絵文字が楽しく使われ消された。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2178,ChatGPT,1,,彼女の笑顔は明るくて周囲を和ませる。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+2617,ChatGPT,0,,猫が食べた魚に見える。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+950,ChatGPT,1,,彼は友達に3枚の切手をあげた。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+837,ChatGPT,0,,敏郎は自分の子供たちをが教育した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1947,ChatGPT,0,,学生たちはクラスに勉強する。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+651,ChatGPT,0,,鏡が明るく照らされ暗くなった。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+965,ChatGPT,1,,彼女はその本を二度読んだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+924,ChatGPT,1,,彼女は一度もそのレストランに行っていない。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1685,ChatGPT,1,,彼女の着こなしは洗練されているが、彼のはざっくりしている。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+702,ChatGPT,1,,理恵は彼女の祖父と散歩した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1859,ChatGPT,0,,彼はスタジオをした。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+2341,ChatGPT,1,,彼女は新しい仕事に就いた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+986,ChatGPT,0,,彼が映画を3人見た。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1489,ChatGPT,0,,彼は硬いです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+1946,ChatGPT,1,,彼は電話で話す。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1346,ChatGPT,1,,彼は彼女の誕生日プレゼントを選んでいますよ。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1096,ChatGPT,0,,良一は彼の計画をに進めた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+2342,ChatGPT,1,,彼は料理が得意だ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+968,ChatGPT,1,,彼はその問題を一つも解けなかった。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+963,ChatGPT,1,,その家には部屋が6つある。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+2398,ChatGPT,1,,この部屋は明るくて広い。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+560,ChatGPT,0,,手紙が彼女に送られ戻った。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2457,ChatGPT,1,,彼がコーヒーを飲んだ。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+1387,ChatGPT,1,,渡辺さんがパートナーをお祝いになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1536,ChatGPT,0,,茜は哲也がどうして彼女のアドバイスを無視したのか不安に思っているの？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+845,ChatGPT,0,,美和は自分のスキルをと磨いた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+16,ChatGPT,1,g,私はほとんどスポーツをしない。,私はほとんどスポーツをしない。,‘I hardly do sports.’,I-TOP almost sports-ACC do-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+2548,ChatGPT,0,,口の出しにくさが人のことについて話される。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+808,ChatGPT,0,,智恵は彼女の写真展をお開いた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+262,ChatGPT,1,*,私が探していた資料は19世紀の歴史に関するものだ。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1178,ChatGPT,0,,この植物はが成長が早い。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2535,ChatGPT,0,,彼女は彼に会われる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+162,ChatGPT,0,*,彼は全然何も決して書かなかった。,彼は全然何も決して書かなかった。,He never wrote nothing at all.,He-TOP at all nothing never write-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+1065,ChatGPT,0,,彼が話したのは話を3つ冗談だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1296,ChatGPT,1,,田中さんが先輩に作業の手順をお聞きしました。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+2527,ChatGPT,0,,絵は彼女に描かれる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+151,ChatGPT,0,*,彼女は決して誰ものアイデアを何も評価しなかった。,彼女は決して誰ものアイデアを何も評価しなかった。,She never evaluated no one's ideas.,She-TOP never no one-GEN idea-ACC evaluate-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+1217,ChatGPT,0,,彼は成功をに夢見ている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+82,ChatGPT,1,g,彼らは決してその話をしなかった。,彼らは決してその話をしなかった。,They never talked about that.',they-TOP never that story-ACC do-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1713,ChatGPT,1,,その車は赤くて速い。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+1569,ChatGPT,1,,電車がいつ来るか待っている人は分からない。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+1473,ChatGPT,0,,その解釈が踊っています。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+293,ChatGPT,1,*,彼女は彼に返事をすると言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+958,ChatGPT,1,,彼はその映画を二度見た。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+2430,ChatGPT,1,,彼女はピアノの練習をした。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+630,ChatGPT,0,,車椅子が安定に動かされ倒れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+705,ChatGPT,1,,信二は自分の家族に感謝の気持ちを伝えた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2404,ChatGPT,1,,先生が教室で新しい本を紹介した。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2493,ChatGPT,1,,花子は新しい本を読んでいる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+214,ChatGPT,1,*,見つけたバグが致命的だったのはどのソフトウェアバージョンですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,acceptable
+784,ChatGPT,0,,裕也は自分のビジネスをか始めた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+493,ChatGPT,1,,学生は大学進学の準備を始めるのを決意した。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+2058,ChatGPT,1,,この本は面白いです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2214,ChatGPT,1,,彼女のスピーチの内容は説得力がありインスピレーションを与える。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+790,ChatGPT,0,,綾香は彼女のガーデンをね手入れした。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+7,ChatGPT,1,g,彼は一度もその映画を見なかった。,彼は一度もその映画を見なかった。,He never watched that movie.',he-TOP once-MO that movie-ACC watch-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1483,ChatGPT,0,,学生は軽いです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+2614,ChatGPT,0,,ケーキを作る彼女が食べる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1516,ChatGPT,0,,アキラはそのユカより冷たい飲み物を注文した。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+19,ChatGPT,1,g,私たちはほとんど会わない。,私たちはほとんど会わない。,‘We hardly meet.’,we-TOP almost meet-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+814,ChatGPT,0,,健一は彼の友人に感謝をな表した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+592,ChatGPT,0,,メガネが正確に修理され壊れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+423,ChatGPT,0,*,彼はその重いより軽い荷物を持った。,,,,False,False,True,True,False,False,False,False,False,False,False,False,ellipsis,unacceptable
+1749,ChatGPT,0,,彼女は全然何もの料理も作らなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+641,ChatGPT,0,,カーテンが美しく掛けられ取り外された。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2369,ChatGPT,1,,野村さんがクライアントに謝罪をお伝えになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+2187,ChatGPT,1,,彼の写真の撮り方はプロ並みで美しい。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+2040,ChatGPT,1,,この部屋は明るいです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+526,ChatGPT,1,,彼は新しいプログラムを学ぶのを進めている。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+2316,ChatGPT,1,,その公園には遊具が10個ある。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+266,ChatGPT,1,*,私が先月完成させた絵画は海岸の日没シーンだ。,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1681,ChatGPT,1,,彼女の演出は魅力的だが、彼のは退屈だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1540,ChatGPT,0,,慎二は陽子がいかにして彼の意見を無視したのか不満を持っているの？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+788,ChatGPT,0,,京子は彼女の写真をく整理した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+550,ChatGPT,0,,彼の提案が無視され損じました。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+1971,ChatGPT,1,,彼女は彼に会う。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1941,ChatGPT,0,,彼は歌の中を歌った。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+405,ChatGPT,0,*,彼女が昨日話した冗談は面白かったが、兄が話したはつまらなかった。,,,,False,False,True,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+671,ChatGPT,0,,バラが愛情を込めて植えられ枯れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2179,ChatGPT,1,,そのソフトウェアの機能は豊富で多様だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+1063,ChatGPT,0,,彼女が描いたのは絵を5枚写真だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1116,ChatGPT,1,,彼女は窓を開けようとした。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+840,ChatGPT,0,,拓也は彼の友達とと遊んだ。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1949,ChatGPT,1,,彼女は電車で学校へ行く。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2223,ChatGPT,1,,彼の教授法は革新的で学生に人気がある。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+1770,ChatGPT,0,,私たちは決してそのプランに何もの支援も与えなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+50,ChatGPT,1,g,誰もがその秘密を知らなかった。,誰もがその秘密を知らなかった。,Nobody knew that secret.',everyone-TOP that secret-ACC know-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1719,ChatGPT,1,,彼女の笑顔は明るくて魅力的だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+1548,ChatGPT,1,,彼がどこでこの本を買ったか誰も尋ねない。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+1320,ChatGPT,1,,佐々木さんが顧客に契約書をお送りした。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+628,ChatGPT,0,,電話が明瞭に話され切られた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+583,ChatGPT,0,,車が速く走られ過ぎた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+227,ChatGPT,0,*,調べた歴史が古かったのはどの時代に関するものですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,unacceptable
+1990,ChatGPT,0,,この映画は悲しいだった。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+1128,ChatGPT,1,,彼は考え込んでいる。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1311,ChatGPT,1,,斉藤さんが客人にお茶をお出しした。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1384,ChatGPT,1,,中村先生が講演者をご紹介になった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1210,ChatGPT,0,,彼女は英語をが勉強中だ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+2338,ChatGPT,1,,彼女は旅行の計画を立てている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+188,ChatGPT,0,*,彼は滅多に誰もを驚かせない。,彼は滅多に誰もを驚かせない。,He seldom surprises anyone.,He-TOP seldom who-MO-ACC surprise-NEG Present,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2541,ChatGPT,0,,猫は彼に餌をやらせる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+49,ChatGPT,1,g,彼はまったく仕事をしなかった。,彼はまったく仕事をしなかった。,He didn't work at all.',he-TOP at-all work-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1287,ChatGPT,0,,彼は計画にが基づいて行動する。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+202,ChatGPT,0,*,彼女は全然誰もの提案を考慮しなかった。,彼女は全然誰もの提案を考慮しなかった。,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+928,ChatGPT,1,,その学校には教室が20室ある。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+320,ChatGPT,1,*,彼女は彼に彼女の携帯を修理すると言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+1872,ChatGPT,0,,私は忙しいだ。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+1257,ChatGPT,0,,この本は面白そうのだ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+527,ChatGPT,1,,彼女は新しいアートプロジェクトを始めるのを考えている。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+1201,ChatGPT,0,,彼女はお金を節約しようとがしている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+1492,ChatGPT,0,,彼女たちは乾燥しています。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+574,ChatGPT,0,,鍵が安全に保管され見つかった。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2367,ChatGPT,1,,高田さんがチームに締め切りをお伝えになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+604,ChatGPT,0,,カメラが正確に調整され落とされた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+26,ChatGPT,1,g,私たちは決してその地域に行かなかった。,私たちは決してその地域に行かなかった。,We never went to that area.',we-TOP never that area-to go-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+228,ChatGPT,1,*,開いた会議が長引いたのはどのプロジェクトのためですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+1369,ChatGPT,1,,坂本さんが親族をお祝いになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+470,ChatGPT,1,,彼は仕事をするのを忘れた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+184,ChatGPT,0,*,彼は全然何もビデオゲームをプレイしなかった。,彼は全然何もビデオゲームをプレイしなかった。,He didn't play any video games at all.,He-TOP at all what-MO video game-ACC play-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+871,ChatGPT,0,,麻衣は自分の努力をこ評価した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1532,ChatGPT,0,,理沙は裕二がどうして彼女の計画を変えたのか困惑しているの？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+2209,ChatGPT,1,,その建物のロケーションは便利で景色が良い。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+959,ChatGPT,1,,彼女は全員にお礼を言った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+709,ChatGPT,1,,康夫は自分の自転車を修理した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1371,ChatGPT,1,,松本さんが責任者をお招きになった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+278,ChatGPT,1,*,先生は学生に宿題をするように指示した。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+1876,ChatGPT,0,,その花はきれいなだ。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+878,ChatGPT,0,,裕子は彼女の猫をで抱きしめた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+2311,ChatGPT,1,,彼女は毎月5冊の雑誌を読む。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1004,ChatGPT,0,,犬が公園を2冊走った。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+1625,ChatGPT,1,,先生がどの話をするか生徒は聞いていない。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,acceptable
+2155,ChatGPT,1,,先月行った山登りは壮大な景色が印象的だった。,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,acceptable
+197,ChatGPT,0,*,私たちは決してそのアプローチに何もの賛成を与えなかった。,私たちは決してそのアプローチに何もの賛成を与えなかった。,We never gave any approval to that approach.,We-TOP never that approach-DAT what-MO-GEN approval-ACC give-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2543,ChatGPT,0,,犬は彼に遊ばせる。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+1380,ChatGPT,1,,加藤さんが新入社員をご指導になった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+1154,ChatGPT,1,,彼女は旅行に行きたがっている。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1267,ChatGPT,0,,彼はの急いでいる。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+724,ChatGPT,1,,智恵は彼女の写真展を開いた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1652,ChatGPT,0,,彼女が好むどの映画か彼は知らない。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+1177,ChatGPT,1,,彼女は絵を描き始めた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+41,ChatGPT,1,g,私達は絶対に遅れなかった。,私達は絶対に遅れなかった。,We were never late.',we-TOP absolutely be late-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+1790,ChatGPT,0,,何時に彼女が起きたか時計が壊れている。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+975,ChatGPT,0,,彼女がペンを3人持っている。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+646,ChatGPT,0,,クッキーが甘く焼かれ焦げた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+1179,ChatGPT,0,,彼女はコーヒーを飲みながらの本を読む。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+1854,ChatGPT,0,,そのレストランは暖かいの料理だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+2346,ChatGPT,1,,彼は歌を歌うのが上手だ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+539,ChatGPT,1,,子供たちは新しいスポーツを始めるのを目指している。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+1960,ChatGPT,1,,彼女は彼とコーヒーを飲む。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2242,ChatGPT,1,,健二は自分の新しいプロジェクトに取り組んでいる。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1190,ChatGPT,0,,このパソコンはに古くなった。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+144,ChatGPT,0,*,誰も彼女を決して見なかった。,誰も彼女を決して見なかった。,Nobody never saw her.,Nobody-NOM her-ACC never see-NEG-PAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+972,ChatGPT,1,,その店には帽子が100個ある。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1793,ChatGPT,0,,どこで彼がこれを買ったか店はもうない。,,,,False,False,False,False,False,True,False,False,False,False,False,False,island effects,unacceptable
+1760,ChatGPT,0,,彼女は決して誰もの電話に答えなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+922,ChatGPT,1,,彼女は一切のスナックを食べなかった。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+656,ChatGPT,0,,ブランケットが暖かく掛けられ取り除かれた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+2131,ChatGPT,1,,昨晩のパーティーは楽しい時間だった。,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,acceptable
+725,ChatGPT,1,,直也は自分の音楽を作った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2380,ChatGPT,1,,猫は窓辺で寝ている。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1509,ChatGPT,0,,どの映画が彼らがどのジャンルが好きか教えてくれますか？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+1148,ChatGPT,1,,彼は興奮しているようだ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+753,ChatGPT,1,,康二は自分の工芸品を作った。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+691,ChatGPT,1,,智子は自分の夢を追いかけた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2279,ChatGPT,1,,優香は彼女の趣味の絵を描いている。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2119,ChatGPT,1,,昨晩テレビで見たドキュメンタリーは興味深かった。,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,acceptable
+344,ChatGPT,0,*,私は運動をしなかったが、彼は姉が行うをした。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,unacceptable
+1379,ChatGPT,1,,石井先生が学生をご観察になった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+739,ChatGPT,1,,拓真は自分の写真展を開いた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1245,ChatGPT,0,,彼は笑いそうのだ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+1075,ChatGPT,0,,彼女がペンを三杯持っている。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+2492,ChatGPT,1,,太郎は学校へ歩いて行った。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,acceptable
+2190,ChatGPT,1,,彼女のプレゼンテーションはわかりやすくて効果的だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+2231,ChatGPT,1,,美奈子は彼女の庭の花に水をやった。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1687,ChatGPT,1,,このビルの設計は革新的だが、あのビルのは古風だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1057,ChatGPT,0,,その美術館には絵画が100枚彫像だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+2235,ChatGPT,1,,里美は彼女のペットの世話をしている。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+2048,ChatGPT,1,,彼は頭がいいです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+284,ChatGPT,1,*,彼女は彼に手紙を書くと言った。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+1447,ChatGPT,0,,その公園は寂しいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+252,ChatGPT,1,*,彼女が学校で発表した研究が注目を集めたのはどのテーマですか？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+2084,ChatGPT,0,,どんな映画を彼女がその本を書いた理由を知っていますか？,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,unacceptable
+285,ChatGPT,1,*,マネージャーはチームに計画を変更すると通知した。,,,,False,False,True,False,False,False,False,False,False,False,False,False,ellipsis,acceptable
+1887,ChatGPT,0,,彼女は勉強する賢いです。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+102,ChatGPT,1,g,私たちはめったに彼を見かけない。,私たちはめったに彼を見かけない。,We seldom see him.',we-TOP rarely him-ACC see-NEG-NONPAST,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,acceptable
+434,ChatGPT,0,*,私はその低いより高い声で歌った。,,,,False,False,True,True,False,False,False,False,False,False,False,False,ellipsis,unacceptable
+1418,ChatGPT,0,,彼女が先輩をお導きになる。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+1673,ChatGPT,1,,この教科書の説明はわかりやすいが、その教科書のは複雑だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1263,ChatGPT,0,,この料理はが美味しい。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+1766,ChatGPT,0,,彼は決して何もの運動もしなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+2065,ChatGPT,1,,この映画は感動的でした。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+1149,ChatGPT,1,,彼女は急いで荷物をまとめた。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1759,ChatGPT,0,,私は全く彼の何もの計画も信じなかった。,,,,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+734,ChatGPT,1,,理沙は彼女の絵画展を開催した。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1867,ChatGPT,0,,彼は速い走る。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,unacceptable
+1487,ChatGPT,0,,彼らは塩辛いです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+655,ChatGPT,0,,サラダが新鮮に作られ腐った。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+514,ChatGPT,1,,子供たちは新しい本を読むのを始めた。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,acceptable
+2529,ChatGPT,0,,彼女は手紙を書かれた。,,,,False,True,False,False,False,False,False,False,False,False,False,False,Arg. Str.,unacceptable
+2087,ChatGPT,0,,どのスポーツを彼がどのチームを応援したか知っていますか？,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,unacceptable
+1342,ChatGPT,1,,私はその映画を見たことがありますよ。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+2171,ChatGPT,1,,このカフェのコーヒーは香り高くて美味しい。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,acceptable
+246,ChatGPT,1,*,私たちが最後に行った旅行が楽しかったのはどの国ですか？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,acceptable
+589,ChatGPT,0,,空が晴れやかに晴れ曇った。,,,,False,False,False,False,True,False,False,False,False,False,False,False,control/raising,unacceptable
+1849,ChatGPT,0,,彼が飲んでいるのは高いの水だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+1045,ChatGPT,0,,この本にはページが100枚図だ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+2343,ChatGPT,1,,その本は彼女にとって特別なものだ。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,acceptable
+1488,ChatGPT,0,,学生は温かいです。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,unacceptable
+1512,ChatGPT,0,,どのアルバムを彼女がどの曲を好きか知っていますか？,,,,False,False,False,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+224,ChatGPT,0,*,読んだ記事が面白かったのはどの雑誌に載っていますか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,filler-gap,unacceptable
+1017,ChatGPT,0,,彼がビールを3輪飲んだ。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,unacceptable
+2288,ChatGPT,1,,彼女は一月に10冊の本を読む。,,,,False,False,False,False,False,False,False,False,False,False,False,True,quantifier,acceptable
+1705,ChatGPT,1,,彼の発想は独創的だが、彼女のは平凡だ。,,,,False,False,True,False,False,False,False,False,False,False,True,False,ellipsis,acceptable
+1366,ChatGPT,1,,佐野さんが上司をご報告になった。,,,,False,False,False,False,False,False,False,True,False,False,False,False,verbal agr.,acceptable
+2266,ChatGPT,1,,健司は自分の趣味の釣りに出かけた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,acceptable
+1283,ChatGPT,0,,彼女は新しいことにが挑戦する。,,,,False,False,False,False,False,False,False,False,False,True,False,False,morphology,unacceptable
+175,ChatGPT,0,*,彼は滅多に誰もを笑わない。,彼は滅多に誰もを笑わない。,He seldom makes anyone laugh.,He-TOP seldom who-MO-ACC laugh-NEG Present,False,False,False,False,False,False,True,False,False,False,False,False,NPI/NCI,unacceptable
+210,ChatGPT,0,*,読み始めた本が退屈だったのはどの小説ですか？,,,,False,False,True,True,False,True,False,False,False,False,False,False,ellipsis,unacceptable
+1736,ChatGPT,0,,あれは母と会話だ。,,,,False,False,False,False,False,False,False,False,False,False,True,False,nominal structure,unacceptable
+825,ChatGPT,0,,真由美は自分の才能にを気付いた。,,,,False,False,False,False,False,False,False,False,True,False,False,False,binding,unacceptable
+1950,ChatGPT,1,,私は彼にメールを送る。,,,,True,False,False,False,False,False,False,False,False,False,False,False,simple,acceptable
+2110,ChatGPT,1,,先週末に見た映画はとても感動的だった。,,,,False,False,False,True,False,False,False,False,False,False,False,False,filler-gap,acceptable
