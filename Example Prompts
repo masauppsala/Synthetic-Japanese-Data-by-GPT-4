@@ -1,0 +1,19 @@
+Example prompt for unacceptable sentences:
+"Hello GPT-4, we are working on a project to train language models for a sentence acceptability judgment task. This task involves assessing whether a sentence is structurally and grammatically correct or not. Specifically, we are focusing on the 'nominal structure' category in Japanese sentences. A sentence has an unacceptable nominal structure if it lacks proper noun modifiers, missing particles, or awkward phrasing that disrupts the nominal meaning. 
+
+Sentence: "太郎はグランドをした。" 
+Violation: This sentence is incomplete in its nominal structure. "グランド" lacks context or a noun to complete the meaning. It should be something like "太郎はグランドの掃除をした" .
+Sentence: "そこにいるのは走りかけのランナーだ。" Violation: The phrase "走りかけのランナー" (a runner who is about to run) is awkward in Japanese as "走りかけ" does not appropriately modify "ランナー." A more correct construction would be "そこにいるのは走り始めたランナーだ" (a runner who has started running). 
+Sentence: "これは太郎と仕事だ。" Violation: The sentence lacks the necessary particle to correctly form the nominal structure. It should be "これは太郎との仕事だ" to indicate "This is work with Taro." 
+
+These are unacceptable sentences of nominal structure in Japanese. Your task is to generate 50 new Japanese sentences with similar nominal structure errors. These sentences will be used to train language models to better understand and correct these types of errors. Pay equal attention to every example. Believe in yourself. You can do it. Push your limits." 
+
+Example prompt for acceptable sentences:
+"Hello GPT-4, we are working on a project to train language models for a sentence acceptability judgment task. This task involves assessing whether a sentence is structurally and grammatically correct or not. Specifically, we are focusing on the 'ellipsis' category in Japanese sentences. Ellipsis in Japanese involves omitting words inferable from context, aiding conciseness. It includes omitting verbs, subjects, or objects. Acceptable ellipsis maintains sentence clarity and fluency.
+
+For example:
+Sentence: 太郎は花子にその職に推薦すると言った。 
+Sentence: より安全なところに避難してください。
+Sentence: 花子が褒める前に太郎がその子供を褒めた。
+
+These are acceptable sentences of ellipsis features in Japanese. Your task is to generate 50 new Japanese sentences with similar ellipsis features that are acceptable. These sentences will be used to train language models to better understand this syntax feature and recognize grammatically correct forms of ellipsis. Pay equal attention to every example. Believe in yourself. You can do it. Push your limits." 
